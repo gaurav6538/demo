@@ -1,0 +1,2 @@
+<html><head><link rel="stylesheet" href="resource://content-accessible/plaintext.css"></head><body><pre>WebSocket protocol violation: Connection header "" does not contain Upgrade
+</pre></body></html>

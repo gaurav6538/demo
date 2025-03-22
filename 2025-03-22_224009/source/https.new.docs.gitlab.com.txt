@@ -1,0 +1,245 @@
+<html lang="en-US" dir="ltr"><head><meta name="generator" content="Hugo 0.142.0"><script src="https://www.redditstatic.com/ads/pixel.js" async=""></script><script async="" src="https://gitlab.com/assets/snowplow/sp-bc5b4b4067898d2d20c35fec045d91d032cb739c3deab5f42607edbeca08323a.js"></script><script type="text/javascript" async="" src="https://bat.bing.com/bat.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-ENFH3X7M5Y&amp;l=dataLayer&amp;cx=c&amp;gtm=45He53j1v72277150za200&amp;tag_exp=102482433~102788824~102803279~102813109~102887800"></script><script type="text/javascript" async="" src="https://cdn.bizible.com/xdc.js?_biz_u=848e09aeefc8476796b6ab1107945665&amp;_biz_h=-884118237&amp;cdn_o=a&amp;jsVer=4.25.02.19"></script><script type="text/javascript" async="" src="//munchkin.marketo.net/164/munchkin.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NJXWQL"></script><script src="https://cdn.cookielaw.org/consent/7f944245-c5cd-4eed-a90e-dd955adfdd08/OtAutoBlock.js"></script><script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-domain-script="7f944245-c5cd-4eed-a90e-dd955adfdd08"></script><script type="text/javascript">function OptanonWrapper(){}</script><script>const callback=(e)=>{for(const t of e)t.type==="childList"&&t.addedNodes.forEach(e=>{e.nodeName==="IMG"&&document.querySelectorAll('img:not([src^="http"]):not([data-ot-ignore])').forEach(e=>{e.setAttribute("data-ot-ignore","")})})},config={attributes:!0,childList:!0,subtree:!0,attributeFilter:["src"]},observer=new MutationObserver(callback);observer.observe(document.documentElement,config)</script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","GTM-NJXWQL"),gtag("consent","default",{analytics_storage:"granted",ad_storage:"granted",functionality_storage:"granted",wait_for_update:500}),gtag("consent","default",{analytics_storage:"denied",ad_storage:"denied",functionality_storage:"denied",region:["AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IT","LV","LT","LU","MT","NL","PL","PT","RO","SK","SI","ES","SE","IS","LI","NO","GB","PE","RU"],wait_for_update:500}),window.geofeed=e=>{dataLayer.push({event:"OneTrustCountryLoad",oneTrustCountryId:e.country.toString()})};const json=document.createElement("script");json.setAttribute("src","https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location/geofeed"),document.head.appendChild(json)</script><script src="https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location/geofeed"></script><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>GitLab Docs</title>
+<link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="manifest" href="/manifests/manifest.webmanifest"><meta name="theme-color" content="#FC6D26"><link rel="canonical" href="https://docs.gitlab.com/"><meta name="description" content="Learn how to use and administer GitLab, the most scalable Git-based fully integrated platform for software development."><link rel="preload" href="/gitlab_ui/fonts/GitLabSans.woff2" type="font/woff2" as="font" crossorigin=""><link rel="prefetch" href="/gitlab_ui/fonts/GitLabSans-Italic.woff2" crossorigin=""><link rel="prefetch" href="/gitlab_ui/fonts/GitLabMono.woff2" crossorigin=""><link rel="stylesheet" href="/gitlab_ui/ui/index.css"><link rel="stylesheet" href="/vite/main.css"><link rel="stylesheet" href="/vite/home.css"><script type="module" src="/vite/home.js"></script><meta name="gitlab_docs_base_url" content="/"><meta class="elastic" name="gitlab_docs_version" content="17.11"><meta class="elastic" name="gitlab_docs_section" content="none"><meta class="elastic" name="gitlab_docs_breadcrumbs" content=""><meta name="gitlab_docs_legacy_path" content=""><meta name="gitlab_docs_hugo_launch_version" content="17.9"><script>const ELASTIC_KEY="cDFpLWJaSUJXVHBqWWI4VGZKN3M6eENBSjl4WDRSRnlCUW94ajRQazhLQQ==",ELASTIC_INDEX="search-gitlab-docs-hugo"</script><script type="module" src="/vite/elastic_search.js"></script><script type="module" src="/vite/history.js"></script><meta name="google-site-verification" content="AcGSBNaKDWnLgcYotlVibGy6STm2Y6_KJSaRxrA90xY"><meta name="google-site-verification" content="6eFQOFLxYAer08ROqc3I-SAi44F9NmvH7PrUUBR3oCI"><meta name="google-site-verification" content="xAUTWp3CDg-tU1LVVwsM9OrVhLR7L3SmiyKzkOuPNos"><meta name="google-site-verification" content="F0zzwaMpiyWFcPQ1Lqu18qN3EnuQsqFXbySl_29yvHs"><meta name="google-site-verification" content="nwo1bVaU0t9TZxZyM-aOI6-CofaH9GRL-uBPbdREWgc"><meta name="google-site-verification" content="rWoHrtHEmIX0t28oOb1ZEDMYZb_EZA6rr6ZOl5otEPI"><meta name="google-site-verification" content="fSxr8-uslxcuFL0N-oECp3Tm0RPNEGX97wbdayKOEL8"><meta name="google-site-verification" content="ISxyLVnZqU8oY3jwrK7EO9o-2DOTvLJwPse7bZz6yhs"><meta name="google-site-verification" content="x1WspIvz3ZHqS0gezfX_P-qiRDOeP2Oyrd68zrU2ErI"><meta name="google-site-verification" content="94tkqWSqC1gAkWpsWgOA0l908EXJz_ncu794v5XjpWs"><meta name="google-site-verification" content="DfXB2Za52GT3zs_vuLIAL4Mi3M3K4qxXcg7MAs0CUqo"><meta name="google-site-verification" content="BCEBC2LC7A1NzO9Com1oBrWK88tV_QXfUL0i9mwXPL0"><meta name="google-site-verification" content="a2lNcHMorfS43aoISjZt5_BBPo-H1UaTKMQdBgZO9iY"><meta name="google-site-verification" content="0s16pP9MelY6wDHRf-izXb5pwLU01IogP-Uc_e8f3GU"><meta name="google-site-verification" content="H474RNof35Xp8fLg02fZbg9Dzxdtfch6vtcjzpmUraU"><meta name="google-site-verification" content="E0FlhpgBGeE7d1pQ6amdcIWPMDLDeu15-HLQVoDTguE"><meta name="google-site-verification" content="opQd7_rXtPy-pX5CO_XZiztzeQEsXnB3j6Y1_dZAizA"><meta name="google-site-verification" content="06Kq4AoXdmBOjOAkbPvnYGtSxnn4Q9QBqEO55PLlw5c"><meta name="google-site-verification" content="djBBokRFSWV_VRlSE51V5TZSPzMC6hml5l-Sb22WglE"><meta name="google-site-verification" content="UOW6nOsvbyMeIySuamzbws4kNC_WqehamWfoxxtKjZ8"><meta name="google-site-verification" content="hXU1Gsdba74DUbvbdUHRl9o0cQeiwXIhAdIllOG6p8E"><meta name="google-site-verification" content="YFeHIAPk9lE76ubVMeq4P0sQVnzo2-a4k1oU_bPY8yE"><meta name="google-site-verification" content="h8ICI4eDkvXmYaGDuLTLoWuXnLn-KUkChqYB-roMRsw"><meta name="zd-site-verification" content="ony3w7hk1vs6tfyrc51mld"><meta name="zd-site-verification" content="gtuq65qdzt6n31viazi6hj"><script type="text/javascript" async="" src="https://munchkin.marketo.net/munchkin.js"></script><script src="https://cdn.cookielaw.org/scripttemplates/202502.1.0/otBannerSdk.js" async="" type="text/javascript"></script><script src="https://bat.bing.com/p/action/26083336.js" type="text/javascript" async="" data-ueto="ueto_20b989c39e"></script></head><body class="home" data-elastic-exclude=""><nav data-elastic-exclude="" class="header gl-w-full gl-fixed gl-py-0 gl-px-5 gl-z-4 gl-bg-theme-indigo-900 gl-flex gl-justify-between gl-items-center"><a href="#skipTarget" class="gl-sr-only skip-link">Skip to main content</a>
+<a class="header-logo gl-flex lg:gl-mr-5" href="/"><img src="/gitlab-logo-header.svg" alt="GitLab documentation home" class="logo" data-ot-ignore="">
+<span class="border-light gl-ml-3 gl-pl-3 gl-py-1 gl-border-0 gl-border-l gl-border-solid gl-border-gray-100 gl-align-middle gl-text-white">Docs</span>
+</a><button class="lg:gl-hidden gl-mt-5 gl-border-0 navbar-toggle" aria-label="Toggle navbar" data-toggle="collapse" data-target=".header-right"></button><div class="mobile-header gl-w-full gl-text-base mobile-header-short"><div class="header-right collapse md:gl-mt-3 lg:gl-mt-0"><div class="gl-flex gl-flex-col lg:gl-flex-row lg:gl-items-center gl-mb-0"><a class="!gl-text-white gl-mr-5 gl-w-fit md:gl-mt-4 lg:gl-mt-0" href="https://about.gitlab.com/releases/categories/releases/" target="_blank" rel="noopener noreferrer">What's new?</a><div class="gl-disclosure-dropdown gl-my-4 lg:gl-my-0 lg:gl-mr-4 lg:gl-ml-3 gl-new-dropdown" data-testid="versions-menu"><button id="dropdown-toggle-btn-1" data-testid="base-dropdown-toggle" aria-expanded="false" aria-controls="base-dropdown-3" aria-labelledby="dropdown-toggle-btn-1" type="button" class="btn btn-default btn-md gl-button gl-new-dropdown-toggle"><!----> <!---->  <span class="gl-button-text"><span class="gl-new-dropdown-button-text">
+        v17.11
+      </span> <svg data-testid="chevron-down-icon" role="img" aria-hidden="true" class="gl-button-icon gl-new-dropdown-chevron gl-icon s16 gl-fill-current"><use href="/icons.svg#chevron-down"></use></svg></span></button> <div id="base-dropdown-3" data-testid="base-dropdown-menu" class="gl-new-dropdown-panel !gl-w-31"><div class="gl-new-dropdown-arrow"></div> <div class="gl-new-dropdown-inner">  <div id="disclosure-2" aria-labelledby="dropdown-toggle-btn-1" data-testid="disclosure-content" tabindex="-1" class="gl-new-dropdown-contents"></div> </div></div></div><a class="cta-button gl-my-3 lg:gl-my-0" href="https://gitlab.com/-/trial_registrations/new?glm_source=docs.gitlab.com&amp;amp;glm_content=navigation-cta-docs" target="_blank" rel="noopener noreferrer" role="button">Get free trial</a></div></div></div></nav><main><div class="landing-div"><section aria-labelledby="find-gitLab-answers-fast" class="search-hero gl-pt-4"><div class="container"><h1 id="find-gitLab-answers-fast" class="gl-text-white gl-my-3">Find GitLab answers fast.</h1><div><div class="gs-wrapper gl-text-base gl-my-3 md:gl-mt-0 md:gl-mb-0"><form class="gl-relative" __bizdiag="0" __biza="W___"><div class="gl-search-box-by-type"><svg data-testid="search-icon" role="img" aria-hidden="true" class="gl-search-box-by-type-search-icon gl-icon s16 gl-fill-icon-subtle"><use href="/icons.svg#search"></use></svg> <input type="search" placeholder="Search GitLab documentation" autocomplete="off" class="gl-form-input form-control gl-search-box-by-type-input-borderless" aria-label="Search" id="__BVID__40"> <!----></div><kbd title="Use the shortcut keys<br><kbd>/</kbd> or <kbd>s</kbd> to start a search" class="gl-absolute gl-z-1 gl-bg-gray-100 gl-text-gray-700">/</kbd></form><!----></div><!----></div><ul class="quick-links gl-pb-3 gl-pl-0 gl-mt-7 gl-list-none"><li class="gl-mr-4 gl-mb-3 gl-inline-block"><a href="/tutorials/" class="md:gl-pb-2 gl-text-white gl-inline-block gl-whitespace-nowrap">Get started</a></li><li class="gl-mr-4 gl-mb-3 gl-inline-block"><a href="/ci/yaml/" class="md:gl-pb-2 gl-text-white gl-inline-block gl-whitespace-nowrap">CI/CD reference</a></li><li class="gl-mr-4 gl-mb-3 gl-inline-block"><a href="/user/ssh/" class="md:gl-pb-2 gl-text-white gl-inline-block gl-whitespace-nowrap">SSH keys</a></li><li class="gl-mr-4 gl-mb-3 gl-inline-block"><a href="/user/profile/personal_access_tokens/" class="md:gl-pb-2 gl-text-white gl-inline-block gl-whitespace-nowrap">Personal access tokens</a></li><li class="gl-mr-4 gl-mb-3 gl-inline-block"><a href="/gitlab-basics/start-using-git/" class="md:gl-pb-2 gl-text-white gl-inline-block gl-whitespace-nowrap">Common Git commands</a></li></ul></div></section><section class="site-sections gl-pt-6"><div class="container"><div><div class="tabs gl-tabs gl-border-b gl-border-solid gl-border-gray-100 gl-border-t-0 gl-border-x-0 gl-mb-5" id="__BVID__3"><!----><div><ul role="tablist" class="nav gl-tabs-nav" id="__BVID__3__BV_tab_controls_"><!----><li role="presentation" class="nav-item"><a id="__BVID__5___BV_tab_button__" role="tab" aria-selected="true" aria-setsize="6" aria-posinset="1" aria-controls="__BVID__5" href="#" target="_self" class="nav-link active gl-tab-nav-item gl-tab-nav-item-active">Use GitLab</a></li><li role="presentation" class="nav-item"><a role="tab" tabindex="-1" aria-selected="false" aria-setsize="6" aria-posinset="2" href="#" target="_self" class="nav-link gl-tab-nav-item" id="__BVID__8___BV_tab_button__" aria-controls="__BVID__8">Tutorials</a></li><li role="presentation" class="nav-item"><a role="tab" tabindex="-1" aria-selected="false" aria-setsize="6" aria-posinset="3" href="#" target="_self" class="nav-link gl-tab-nav-item" id="__BVID__11___BV_tab_button__" aria-controls="__BVID__11">Subscribe</a></li><li role="presentation" class="nav-item"><a role="tab" tabindex="-1" aria-selected="false" aria-setsize="6" aria-posinset="4" href="#" target="_self" class="nav-link gl-tab-nav-item" id="__BVID__14___BV_tab_button__" aria-controls="__BVID__14">Install</a></li><li role="presentation" class="nav-item"><a role="tab" tabindex="-1" aria-selected="false" aria-setsize="6" aria-posinset="5" href="#" target="_self" class="nav-link gl-tab-nav-item" id="__BVID__17___BV_tab_button__" aria-controls="__BVID__17">Administer</a></li><li role="presentation" class="nav-item"><a role="tab" tabindex="-1" aria-selected="false" aria-setsize="6" aria-posinset="6" href="#" target="_self" class="nav-link gl-tab-nav-item" id="__BVID__20___BV_tab_button__" aria-controls="__BVID__20">Extend</a></li><!----></ul></div><div class="tab-content gl-tab-content" id="__BVID__3__BV_tab_container_"><div role="tabpanel" aria-hidden="false" class="tab-pane active" style="" query-param-value="Use GitLab" id="__BVID__5" aria-labelledby="__BVID__5___BV_tab_button__"><h2 class="gl-sr-only">Use GitLab</h2><ul class="site-section-inner gl-list-none gl-pl-0 gl-m-0 gl-pt-3 gl-pb-5"><li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/user/gitlab_duo/">GitLab Duo</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">AI-powered features and functionality.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/topics/set_up_organization/">Manage your organization</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Users, groups, namespaces, SSH keys.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/user/project/organize_work_with_projects/">Organize work with projects</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Project visibility, search, badges, layout.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/topics/plan_and_track/">Plan and track work</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Epics, issues, milestones, labels.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/topics/git/">Use Git</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Common Git commands and workflows.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/topics/manage_code/">Manage your code</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Repositories, merge requests, remote development.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/topics/build_your_application/">Use CI/CD to build your application</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Runners, jobs, pipelines, variables.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/user/application_security/secure_your_application/">Secure your application</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Container, dependency, and vulnerability scans.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/topics/release_your_application/">Deploy and release your application</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Environments, packages, review apps, GitLab Pages.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/user/infrastructure/">Manage your infrastructure</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Terraform and Kubernetes deployments.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/operations/">Monitor your application</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Track errors, application performance issues, customer behavior patterns and manage incident response.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/user/analytics/">Analyze GitLab usage</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Instance, group, and project analytics.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/policy/development_stages_support/">Support for features in different stages of development</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Support details.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/user/version/">Find the GitLab version</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Version information.</p>
+</li>
+</ul></div><div role="tabpanel" aria-hidden="true" class="tab-pane" style="display: none;" query-param-value="Tutorials" id="__BVID__8" aria-labelledby="__BVID__8___BV_tab_button__"><h2 class="gl-sr-only">Tutorials</h2><ul class="site-section-inner gl-list-none gl-pl-0 gl-m-0 gl-pt-3 gl-pb-5"><li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/tutorials/gitlab_navigation/">Tutorials: Find your way around GitLab</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Introduction to the product.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/tutorials/learn_git/">Tutorials: Learn Git</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Git basics.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/tutorials/plan_and_track/">Tutorials: Plan and track your work</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Planning, agile, issue boards.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/tutorials/build_application/">Tutorials: Build your application</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">CI/CD fundamentals and examples.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/tutorials/secure_application/">Tutorials: Secure your application and check compliance</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Dependency and compliance scanning.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/tutorials/infrastructure/">Tutorials: Manage your infrastructure</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">GitOps, Kubernetes deployments.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/tutorials/develop/">Tutorials: Extend with GitLab</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Integrations with third-party services.</p>
+</li>
+</ul></div><div role="tabpanel" aria-hidden="true" class="tab-pane" style="display: none;" query-param-value="Subscribe" id="__BVID__11" aria-labelledby="__BVID__11___BV_tab_button__"><h2 class="gl-sr-only">Subscribe</h2><ul class="site-section-inner gl-list-none gl-pl-0 gl-m-0 gl-pt-3 gl-pb-5"><li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/subscriptions/choosing_subscription/">GitLab plans</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Options for accessing GitLab.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/subscriptions/gitlab_com/">GitLab.com subscription</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Seat usage, compute minutes, storage limits, renewal info.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/subscriptions/self_managed/">GitLab Self-Managed subscription</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Billable users, renewal and upgrade info.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/subscriptions/gitlab_dedicated/">GitLab Dedicated</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Available features and benefits.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/subscriptions/subscription-add-ons/">GitLab Duo add-ons</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Seat assignment, GitLab Duo add-on</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/subscriptions/community_programs/">Community programs</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Education, Open Source, Startups.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/subscriptions/customers_portal/">The Customers Portal</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Payment and company details.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/subscriptions/quarterly_reconciliation/">Quarterly reconciliation and annual true-ups</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Billing examples.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/ci/pipelines/compute_minutes/">Compute minutes</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Calculations, quotas, purchase information.</p>
+</li>
+</ul></div><div role="tabpanel" aria-hidden="true" class="tab-pane" style="display: none;" query-param-value="Install" id="__BVID__14" aria-labelledby="__BVID__14___BV_tab_button__"><h2 class="gl-sr-only">Install</h2><ul class="site-section-inner gl-list-none gl-pl-0 gl-m-0 gl-pt-3 gl-pb-5"><li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/install/requirements/">GitLab installation requirements</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Prerequisites for installation.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/install/install_methods/">Installation methods</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Linux, Helm, Docker, Operator, source, or scripts.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/install/cloud_providers/">Install GitLab on a cloud provider</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">AWS, Google Cloud Platform, Azure.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/topics/offline/">Offline GitLab</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Isolated installation.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/administration/reference_architectures/">Reference architectures</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Recommended deployments at scale.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/update/">Upgrading GitLab</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Latest version instructions.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/runner/install/">Install GitLab Runner</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Software for CI/CD jobs.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/runner/configuration/">Configure GitLab Runner</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Config.toml, certificates, autoscaling, proxy setup.</p>
+</li>
+</ul></div><div role="tabpanel" aria-hidden="true" class="tab-pane" style="display: none;" query-param-value="Administer" id="__BVID__17" aria-labelledby="__BVID__17___BV_tab_button__"><h2 class="gl-sr-only">Administer</h2><ul class="site-section-inner gl-list-none gl-pl-0 gl-m-0 gl-pt-3 gl-pb-5"><li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/administration/get_started/">Get started administering GitLab</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Administration overview.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/user/feature_flags/">All feature flags in GitLab</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Complete list of all feature flags in GitLab.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/administration/auth/">GitLab authentication and authorization</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Third-party authentication providers.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/administration/configure/">Configure GitLab</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Configuration settings.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/administration/settings/">Update your Admin area settings</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Product settings.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/administration/operations/">Maintain GitLab</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Backup and restore, move repos, maintenance tasks.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/administration/monitoring/">Monitor GitLab</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Performance, health, uptime monitoring.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/security/">Secure GitLab</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">SSH key limits, 2FA, tokens, hardening.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/administration/administer_users/">Administer users</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Administer GitLab users.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/administration/dedicated/">Administer GitLab Dedicated</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Get started with GitLab Dedicated.</p>
+</li>
+</ul></div><div role="tabpanel" aria-hidden="true" class="tab-pane" style="display: none;" query-param-value="Extend" id="__BVID__20" aria-labelledby="__BVID__20___BV_tab_button__"><h2 class="gl-sr-only">Extend</h2><ul class="site-section-inner gl-list-none gl-pl-0 gl-m-0 gl-pt-3 gl-pb-5"><li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/integration/">Integrate with GitLab</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Projects, issues, authentication, security providers.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/user/project/integrations/webhooks/">Webhooks</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Custom HTTP callbacks, used to send events.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/api/rest/">REST API</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Programmatic interaction with GitLab.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/api/graphql/">GraphQL API</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Programmatic interaction with GitLab.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/api/oauth2/">OAuth 2.0 identity provider API</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Third-party authorization to GitLab.</p>
+</li>
+<li>
+  <h3 class="gl-text-sm gl-font-normal gl-m-0"><a href="/editor_extensions/">Editor Extensions</a></h3>
+  <p class="gl-hidden lg:gl-block gl-text-sm gl-text-gray-700 gl-leading-tight gl-mb-0">Extend the features of GitLab to Visual Studio Code, JetBrains IDEs, Visual Studio, and Neovim.</p>
+</li>
+</ul></div><!----></div></div></div><div class="secondary-sections lg:gl-flex"><div class="gl-mr-7"><h3 class="gl-mb-4 gl-text-theme-indigo-900! gl-mt-0">Contribute</h3><ul class="gl-grid gl-grid-cols-2 gl-pl-0 gl-list-none"><li><a href="/development/contributing/">GitLab</a></li><li><a href="/development/pages/">GitLab Pages</a></li><li><a href="/development/ux/">UX design</a></li><li><a href="/runner/development/">GitLab Runner</a></li><li><a href="/development/distribution/">GitLab distribution</a></li><li><a href="/development/documentation/">GitLab documentation</a></li></ul></div><div class="gl-mr-7"><h3 class="gl-mb-4 gl-text-theme-indigo-900! gl-mt-0">Solutions</h3><ul class="gl-grid gl-grid-cols-2 gl-pl-0 gl-list-none"><li><a href="/solutions/cloud/aws/">Amazon Web Services</a></li></ul></div></div></div></section><section aria-labelledby="install-self-managed-gitlab" class="self-managed gl-text-center gl-py-8"><div class="container"><div class="row gl-text-left"><div class="col-12"><h2 id="install-self-managed-gitlab">Install GitLab Self-Managed</h2></div><div class="col-12 options"><p>You've got options. <a href="/install/install_methods/">See them all <img src="/arrow-right-lp.svg" class="gl--mt-2" alt="" data-ot-ignore=""></a></p></div></div><div class="row"><div class="col-md-6 col-12 gl-py-5"><div class="card card-large gl-h-full"><div class="card-body"><img class="card-img-top" src="/docs-omnibus.svg" alt="" data-ot-ignore=""><h3 class="card-title gl-my-0 gl-pb-2 gl-max-w-none">Install on Linux</h3><p class="card-text">The Omnibus package includes services and tools to install GitLab without laborious configuration.</p><a href="/omnibus/installation/" class="card-link">Use the Omnibus package <img src="/arrow-right-lp.svg" class="gl--mt-2" alt="" data-ot-ignore=""></a></div></div></div><div class="col-md-6 col-12 gl-py-5"><div class="card card-large gl-h-full"><div class="card-body"><img class="card-img-top" src="/docs-charts.svg" alt="" data-ot-ignore=""><h3 class="card-title gl-my-0 gl-pb-2 gl-max-w-none">Install on Kubernetes</h3><p class="card-text">If you're using cluster management, we recommend the Helm chart or the Operator for installing cloud-native GitLab.</p><ul class="gl-list-none gl-pl-0 xl:gl-flex gl-justify-around"><li><a href="/charts/" class="card-link">Use the Helm chart <img src="/arrow-right-lp.svg" class="gl--mt-2" alt="" data-ot-ignore=""></a></li><li><a href="/operator/" class="card-link">Use the Operator <img src="/arrow-right-lp.svg" class="gl--mt-2" alt="" data-ot-ignore=""></a></li></ul></div></div></div></div><ul class="row gl-list-none gl-mb-0 gl-pl-0"><li class="col-lg-4 col-12 gl-py-5"><div class="card transparent gl-text-left gl-h-full"><div class="gl-p-5"><h3 class="card-title gl-mt-0"><img src="/download.svg" class="gl-mr-3" alt="" data-ot-ignore="">
+<a href="/install/docker/">Install with Docker</a></h3><p class="card-text gl-pl-8">GitLab maintains a set of official Docker images based on the Omnibus GitLab package.</p></div></div></li><li class="col-lg-4 col-12 gl-py-5"><div class="card transparent gl-text-left gl-h-full"><div class="gl-p-5"><h3 class="card-title gl-mt-0"><img src="/download.svg" class="gl-mr-3" alt="" data-ot-ignore="">
+<a href="/install/installation/">Compile from source</a></h3><p class="card-text gl-pl-8">If the Omnibus GitLab package isn't available for your distribution, you can install GitLab from source.</p></div></div></li><li class="col-lg-4 col-12 gl-py-5"><div class="card transparent gl-text-left gl-h-full"><div class="gl-p-5"><h3 class="card-title gl-mt-0"><img src="/download.svg" class="gl-mr-3" alt="" data-ot-ignore="">
+<a href="/install/cloud_providers/">Install from cloud provider</a></h3><p class="card-text gl-pl-8">Install directly from platforms like AWS, Azure, GCP, OpenShift, and DigitalOcean.</p></div></div></li></ul><div class="row"><div class="col related gl-pt-5"><p><strong>Related topic:</strong> <a href="/runner/install/">Install GitLab Runner,</a> an application that works with GitLab CI/CD to run jobs in a pipeline.</p></div></div></div></section><section aria-labelledby="reference-architectures" class="reference gl-text-center gl-py-7"><div class="container"><div class="row"><div class="col-12"><h2 id="reference-architectures" class="gl-text-white gl-mt-0 gl-pt-3 gl-pb-0 gl-mb-0">Reference architectures</h2></div><div class="col-12 gl-pb-3"><p>Scale your GitLab installation by using the recommended configurations.</p></div></div><ul class="row gl-mb-0 gl-pl-0"><li class="col-md-3 col-6 gl-flex gl-items-center gl-justify-center gl-py-3 gl-my-2 md:gl-py-0 md:gl-my-0"><div class="circle rounded-circle"><a class="gl-text-white" href="/administration/reference_architectures/1k_users/"><span class="gl-block title gl-pt-7">1,000</span>
+<span class="gl-block sub-title">users</span>
+<span class="gl-block"><img src="/arrow-right.svg" alt="" data-ot-ignore=""></span></a></div></li><li class="col-md-3 col-6 gl-flex gl-items-center gl-justify-center gl-py-3 gl-my-2 md:gl-py-0 md:gl-my-0"><div class="circle rounded-circle"><a class="gl-text-white" href="/administration/reference_architectures/2k_users/"><span class="gl-block title gl-pt-7">2,000</span>
+<span class="gl-block sub-title">users</span>
+<span class="gl-block"><img src="/arrow-right.svg" alt="" data-ot-ignore=""></span></a></div></li><li class="col-md-3 col-6 gl-flex gl-items-center gl-justify-center gl-py-3 gl-my-2 md:gl-py-0 md:gl-my-0"><div class="circle rounded-circle"><a class="gl-text-white" href="/administration/reference_architectures/3k_users/"><span class="gl-block title gl-pt-7">3,000</span>
+<span class="gl-block sub-title">users</span>
+<span class="gl-block"><img src="/arrow-right.svg" alt="" data-ot-ignore=""></span></a></div></li><li class="col-md-3 col-6 gl-flex gl-items-center gl-justify-center gl-py-3 gl-my-2 md:gl-py-0 md:gl-my-0"><div class="circle rounded-circle"><a class="gl-text-white" href="/administration/reference_architectures/5k_users/"><span class="gl-block title gl-pt-7">5,000</span>
+<span class="gl-block sub-title">users</span>
+<span class="gl-block"><img src="/arrow-right.svg" alt="" data-ot-ignore=""></span></a></div></li></ul><ul class="row md:gl-pt-6 gl-pb-7 gl-mb-0 gl-pl-0"><li class="col-md-4 col-6 gl-flex gl-items-center gl-justify-center gl-py-3 gl-my-2 md:gl-py-0 md:gl-my-0 md:gl-justify-end"><div class="circle rounded-circle"><a class="gl-text-white" href="/administration/reference_architectures/10k_users/"><span class="gl-block title gl-pt-7">10,000</span>
+<span class="gl-block sub-title">users</span>
+<span class="gl-block"><img src="/arrow-right.svg" alt="" data-ot-ignore=""></span></a></div></li><li class="col-md-4 col-6 gl-flex gl-items-center gl-justify-center gl-py-3 gl-my-2 md:gl-py-0 md:gl-my-0"><div class="circle rounded-circle"><a class="gl-text-white" href="/administration/reference_architectures/25k_users/"><span class="gl-block title gl-pt-7">25,000</span>
+<span class="gl-block sub-title">users</span>
+<span class="gl-block"><img src="/arrow-right.svg" alt="" data-ot-ignore=""></span></a></div></li><li class="col-md-4 col-6 gl-flex gl-items-center gl-justify-center gl-py-3 gl-my-2 md:gl-py-0 md:gl-my-0 md:gl-justify-start"><div class="circle rounded-circle"><a class="gl-text-white" href="/administration/reference_architectures/50k_users/"><span class="gl-block title gl-pt-7">50,000</span>
+<span class="gl-block sub-title">users</span>
+<span class="gl-block"><img src="/arrow-right.svg" alt="" data-ot-ignore=""></span></a></div></li></ul></div></section><section aria-labelledby="get-support" class="support gl-py-9"><div class="container gl-flex"><div class="card gl-rounded-base text-center"><div class="card-body"><h2 id="get-certified" class="card-title">Get certified</h2><p class="card-text gl-mb-6 gl-pb-2">Access learning resources and certification tracks.</p><a href="https://university.gitlab.com/" class="btn btn-outline-primary">Start learning</a></div></div><div class="card gl-rounded-base text-center"><div class="card-body"><h2 id="get-support" class="card-title">Get support</h2><p class="card-text gl-mb-6 gl-pb-2">If you need additional help and you're on a paid tier, you can request support.</p><a href="https://about.gitlab.com/support/" class="btn btn-outline-primary">Request support</a></div></div></div></section><div aria-labelledby="footer" class="footer-section lg:gl-flex"><div id="footer" class="container lg:gl-text-center"><a href="https://about.gitlab.com/company/">About GitLab</a>
+<a href="https://about.gitlab.com/privacy/">Privacy Statement</a><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Settings</button><a href="https://about.gitlab.com/community/contribute/">Please contribute</a>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer" class="xl:gl-ml-5 gl-mt-5 xl:gl-mt-0"><img src="/by-sa.svg" alt="Creative Commons License" data-ot-ignore=""></a></div></div></div></main><script type="module" src="/vite/main.js"></script><script async="">(function(e,t,n,s,o){e[s]=e[s]||[],e[s].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var a=t.getElementsByTagName(n)[0],i=t.createElement(n),r=s!="dataLayer"?"&l="+s:"";i.async=!0,i.src="https://www.googletagmanager.com/gtm.js?id="+o+r,a.parentNode.insertBefore(i,a)})(window,document,"script","dataLayer","GTM-NJXWQL")</script><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJXWQL" height=0 width=0 style=display:none;visibility:hidden></iframe></noscript><script async="">(function(){var e,t=!1;function n(){t===!1&&(t=!0,Munchkin.init("194-VVC-221",{useBeaconAPI:!0}))}e=document.createElement("script"),e.type="text/javascript",e.async=!0,e.src="https://munchkin.marketo.net/munchkin.js",e.onreadystatechange=function(){(this.readyState=="complete"||this.readyState=="loaded")&&n()},e.onload=n,document.getElementsByTagName("head")[0].appendChild(e)})()</script><script async="" src="https://cdn.bizible.com/scripts/bizible.js"></script><script async="">_linkedin_partner_id="30694",window._linkedin_data_partner_ids=window._linkedin_data_partner_ids||[],window._linkedin_data_partner_ids.push(_linkedin_partner_id),function(){var t=document.getElementsByTagName("script")[0],e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://snap.licdn.com/li.lms-analytics/insight.min.js",t.parentNode.insertBefore(e,t)}()</script><noscript><img height=1 width=1 style=display:none alt src="https://dc.ads.linkedin.com/collect/?pid=30694&fmt=gif"></noscript><script src="https://cdn.jsdelivr.net/npm/@gitlab/application-sdk-browser@0.2.8/dist/gl-sdk.min.js"></script><script>const GL_PRODUCT_ANALYTICS_JSON={appId:"e1c8d446-8edf-46fa-9e6a-9f964b8675c8",host:"https://collector.prod-1.gl-product-analytics.com",hasCookieConsent:!0};Object.values(GL_PRODUCT_ANALYTICS_JSON).includes("")||(window.glClient=window.glSDK.glClientSDK(),window.glClient?.page())</script><img style="display: none;" alt="" src="https://cdn.bizible.com/ipv?_biz_r=&amp;_biz_h=-884118237&amp;_biz_u=848e09aeefc8476796b6ab1107945665&amp;_biz_l=https%3A%2F%2Fdocs.gitlab.com%2F&amp;_biz_t=1742683719478&amp;_biz_i=GitLab%20Docs&amp;_biz_n=0&amp;rnd=703824&amp;cdn_o=a&amp;_biz_z=1742683720710"><img style="display: none;" alt="" src="https://cdn.bizibly.com/u?_biz_u=848e09aeefc8476796b6ab1107945665&amp;_biz_l=https%3A%2F%2Fdocs.gitlab.com%2F&amp;_biz_t=1742683720718&amp;_biz_i=GitLab%20Docs&amp;rnd=430008&amp;cdn_o=a&amp;_biz_z=1742683720721"><script id="6senseWebTag" text="" charset="" type="text/plain" src="https://j.6sc.co/j/e9e55340-3e99-4dcb-8496-fe1e95de35e5.js" class="optanon-category-C0004 "></script><script type="text/javascript" id="" charset="">(function(a,e,f,g,b,c,d){a[b]||(a.GlobalSnowplowNamespace=a.GlobalSnowplowNamespace||[],a.GlobalSnowplowNamespace.push(b),a[b]=function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].q=a[b].q||[],c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d))})(window,document,"script","https://gitlab.com/assets/snowplow/sp-bc5b4b4067898d2d20c35fec045d91d032cb739c3deab5f42607edbeca08323a.js","snowplow");
+window.snowplow("newTracker","cf","snowplowprd.trx.gitlab.net",{appId:"docs",cookieDomain:".gitlab.com",respectDoNotTrack:!0,forceSecureTracker:!0,anonymousTracking:{withSessionTracking:!0},contexts:{webPage:!0},stateStorageStrategy:"localStorage"});window.snowplow("enableActivityTracking",30,30);window.snowplow("trackPageView");window.snowplow("enableFormTracking");window.snowplow("enableLinkClickTracking");</script><script type="text/javascript" id="" charset="">!function(a,b){if(!a.rdt){var c=a.rdt=function(){c.sendEvent?c.sendEvent.apply(c,arguments):c.callQueue.push(arguments)};c.callQueue=[];a=b.createElement("script");a.src="https://www.redditstatic.com/ads/pixel.js";a.async=!0;b=b.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}}(window,document);rdt("init","t2_vymmd",{optOut:!1,useDecimalCurrencyValues:!0,aaid:"\x3cAAID-HERE\x3e",email:"\x3cEMAIL-HERE\x3e",externalId:"\x3cEXTERNAL-ID-HERE\x3e",idfa:"\x3cIDFA-HERE\x3e"});
+rdt("track","PageVisit");</script><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe>
+<img style="display: none;" alt="" src="https://cdn.bizible.com/u?mapType=mkto&amp;mapValue=id%3A194-VVC-221%26token%3A_mch-gitlab.com-18b58eb49f63564986aa2ba593e258d&amp;_biz_u=848e09aeefc8476796b6ab1107945665&amp;_biz_l=https%3A%2F%2Fdocs.gitlab.com%2F&amp;_biz_t=1742683723419&amp;_biz_i=GitLab%20Docs&amp;_biz_n=1&amp;rnd=715565&amp;cdn_o=a&amp;_biz_z=1742683723432"><div style="width: 0px; height: 0px; display: none; visibility: hidden;" id="batBeacon953060976472"><img style="width: 0px; height: 0px; display: none; visibility: hidden;" id="batBeacon416781695222" width="0" height="0" alt="" src="https://bat.bing.com/action/0?ti=26083336&amp;tm=gtm002&amp;Ver=2&amp;mid=87460954-82bc-421e-9975-70cd17635b9b&amp;bo=1&amp;sid=cf2c0be0076f11f09d01b9d05ddd1595&amp;vid=cf2c4e20076f11f0b8f5577e77e64dc8&amp;vids=1&amp;msclkid=N&amp;pi=918639831&amp;lg=en-US&amp;sw=1366&amp;sh=768&amp;sc=24&amp;nwd=1&amp;tl=GitLab%20Docs&amp;p=https%3A%2F%2Fdocs.gitlab.com%2F&amp;r=&amp;lt=5272&amp;evt=pageLoad&amp;sv=1&amp;cdb=AQAQ&amp;rn=776219"></div></body></html>

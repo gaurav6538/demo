@@ -1,0 +1,204 @@
+<html class="html-devise-layout gl-light" lang="en" style="--broadcast-message-height: 0px;"><head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<title>Sign in · GitLab</title>
+<script>
+//<![CDATA[
+window.gon={};gon.api_version="v4";gon.default_avatar_url="https://gitlab.com/assets/no_avatar-849f9c04a3a0d0cea2424ae97b27447dc64a7dbfae83c036c45b403392f0e8ba.png";gon.max_file_size=100;gon.asset_host=null;gon.webpack_public_path="/assets/webpack/";gon.relative_url_root="";gon.user_color_mode="gl-light";gon.user_color_scheme="white";gon.markdown_surround_selection=null;gon.markdown_automatic_lists=null;gon.math_rendering_limits_enabled=true;gon.recaptcha_api_server_url="https://www.recaptcha.net/recaptcha/api.js";gon.recaptcha_sitekey=null;gon.gitlab_url="https://gitlab.com";gon.promo_url="https://about.gitlab.com";gon.forum_url="https://forum.gitlab.com";gon.docs_url="https://docs.gitlab.com";gon.revision="08f3232e83c";gon.feature_category="system_access";gon.gitlab_logo="/assets/gitlab_logo-2957169c8ef64c58616a1ac3f4fc626e8a35ce4eb3ed31bb0d873712f2a041a0.png";gon.secure=true;gon.sprite_icons="/assets/icons-aa2c8ddf99d22b77153ca2bb092a23889c12c597fc8b8de94b0f730eb53513f6.svg";gon.sprite_file_icons="/assets/file_icons/file_icons-59d148c7ea628b0ec3975493002fa45de1d4d8c15b2bf59775965ab9d67d62ab.svg";gon.emoji_sprites_css_path="/assets/emoji_sprites-bd26211944b9d072037ec97cb138f1a52cd03ef185cd38b8d1fcc963245199a1.css";gon.emoji_backend_version=4;gon.gridstack_css_path="/assets/lazy_bundles/gridstack-4cd1da7c8adb8553e78a4f5545a8ab57a46258e091e6ac0382e6de79bca5ea3c.css";gon.test_env=false;gon.disable_animations=null;gon.suggested_label_colors={"#cc338b":"Magenta-pink","#dc143c":"Crimson","#c21e56":"Rose red","#cd5b45":"Dark coral","#ed9121":"Carrot orange","#eee600":"Titanium yellow","#009966":"Green-cyan","#8fbc8f":"Dark sea green","#6699cc":"Blue-gray","#e6e6fa":"Lavender","#9400d3":"Dark violet","#330066":"Deep violet","#36454f":"Charcoal grey","#808080":"Gray"};gon.first_day_of_week=0;gon.time_display_relative=true;gon.time_display_format=0;gon.ee=true;gon.jh=false;gon.dot_com=true;gon.uf_error_prefix="UF";gon.pat_prefix="glpat-";gon.keyboard_shortcuts_enabled=true;gon.diagramsnet_url="https://embed.diagrams.net";gon.features={"vscodeWebIde":true,"uiForOrganizations":false,"organizationSwitching":false,"findAndReplace":false,"removeMonitorMetrics":true,"workItemsViewPreference":true,"searchButtonTopRight":false,"mergeRequestDashboard":false,"newProjectCreationForm":false,"workItemsClientSideBoards":false,"glqlWorkItems":false,"duoChatDynamicDimension":true,"duoChatMultiThread":false,"advancedContextResolver":true,"vulnerabilityReportTypeScannerFilter":false};gon.roadmap_epics_limit=1000;gon.subscriptions_url="https://customers.gitlab.com";gon.subscriptions_legacy_sign_in_url="https://customers.gitlab.com/customers/sign_in?legacy=true";gon.billing_accounts_url="https://customers.gitlab.com/billing_accounts";gon.payment_form_url="https://customers.gitlab.com/payment_forms/cc_validation";gon.payment_validation_form_id="payment_method_validation";
+//]]>
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="/assets/application-d29bac3029c021f21ef2cf0dda4f22b44c9dd63022590cb2510a778f1a893d61.css">
+<link rel="stylesheet" href="/assets/page_bundles/login-c86aaeb732c7cd4528094f168b9ad4a0408b971bd952f45a9a4dd714d1c9ecb1.css"><link rel="stylesheet" href="/assets/page_bundles/commit_description-1e2cba4dda3c7b30dd84924809020c569f1308dea51520fe1dd5d4ce31403195.css"><link rel="stylesheet" href="/assets/page_bundles/work_items-5d91f82e59384be661ce3af174d7abc99f91d15130ad7c924bfe6591c8f28d89.css"><link rel="stylesheet" href="/assets/page_bundles/notes_shared-8b38073ba71abd72b511b161ac1c0567ac634b689428f7c74591325093229970.css">
+<link rel="stylesheet" href="/assets/application_utilities-7844decc020ce5472253adae1ee2b329cdb6ddd08043b91daa3c9ed5530f5142.css">
+<link rel="stylesheet" href="/assets/tailwind-bcb663aa80ddf791354c4abd9addeda79119fd68577c8e9f25328054ba712f9f.css">
+
+
+<link rel="stylesheet" href="/assets/fonts-fae5d3f79948bd85f18b6513a025f863b19636e85b09a1492907eb4b1bb0557b.css">
+<link rel="stylesheet" href="/assets/highlight/themes/white-99cce4f4b362f6840d7134d4129668929fde49c4da11d6ebf17f99768adbd868.css">
+
+
+<link rel="preload" href="/assets/application_utilities-7844decc020ce5472253adae1ee2b329cdb6ddd08043b91daa3c9ed5530f5142.css" as="style" type="text/css">
+<link rel="preload" href="/assets/application-d29bac3029c021f21ef2cf0dda4f22b44c9dd63022590cb2510a778f1a893d61.css" as="style" type="text/css">
+<link rel="preload" href="/assets/highlight/themes/white-99cce4f4b362f6840d7134d4129668929fde49c4da11d6ebf17f99768adbd868.css" as="style" type="text/css">
+
+
+
+
+<script src="/assets/webpack/runtime.33d44bfb.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.4653c789.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.groups.analytics.dashboards-pages.groups.harbor.repositories-pages.groups.iteration_ca-8504ae95.1ad04e58.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.groups.new-pages.import.gitlab_projects.new-pages.import.manifest.new-pages.projects.n-44c6c18e.7f76073d.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.search.show-super_sidebar.0a1c3ad7.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.dashboard.todos.index-super_sidebar.b0d580ef.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/super_sidebar.16bc2745.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.groups.sso-pages.registrations.new-pages.sessions.new-pages.trial_registrations.new.5c8731c2.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.admin.sessions-pages.sessions-pages.sessions.new-pages.trial_registrations.new.8e9533d1.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.sessions.new.7c8dea14.chunk.js" defer="defer"></script>
+
+
+
+<meta content="object" property="og:type">
+<meta content="GitLab" property="og:site_name">
+<meta content="Sign in · GitLab" property="og:title">
+<meta content="GitLab Enterprise Edition" property="og:description">
+<meta content="https://cell-c01j2gdw0zfdafxr6.cells.gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="og:image">
+<meta content="64" property="og:image:width">
+<meta content="64" property="og:image:height">
+<meta content="https://cell-c01j2gdw0zfdafxr6.cells.gitlab.com/users/sign_in" property="og:url">
+<meta content="summary" property="twitter:card">
+<meta content="Sign in · GitLab" property="twitter:title">
+<meta content="GitLab Enterprise Edition" property="twitter:description">
+<meta content="https://cell-c01j2gdw0zfdafxr6.cells.gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="twitter:image">
+
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="JKxeV5Mb9I3sl4UdQzcxqBFENuJwkawv269GpwyIWyy_tDLP-y2vWSM4XGT1cJw7w4IgjjolAQeBw3H-_lpMqA">
+<meta name="csp-nonce">
+<meta name="action-cable-url" content="/-/cable">
+<link href="/-/manifest.json" rel="manifest">
+<link rel="icon" type="image/png" href="/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" id="favicon" data-original-href="/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png">
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/apple-touch-icon-b049d4bc0dd9626f31db825d61880737befc7835982586d015bded10b4435460.png">
+<link href="/search/opensearch.xml" rel="search" title="Search GitLab" type="application/opensearchdescription+xml">
+
+
+
+
+<meta content="GitLab Enterprise Edition" name="description">
+<meta content="#ececef" name="theme-color">
+<style>
+svg[data-v-9534917c] {
+  pointer-events: none;
+
+  position: fixed;
+  right: 0;
+}
+svg polygon[data-v-9534917c],
+svg rect[data-v-9534917c] {
+  pointer-events: auto;
+}
+</style><style>
+.fake-input[data-v-26a01bbc] {
+  position: absolute;
+  top: 14px;
+  left: 39px;
+}
+</style><style>
+.input-box-wrapper[data-v-4807f23d] {
+  position: relative;
+}
+.fake-input-wrapper[data-v-4807f23d] {
+  position: absolute;
+}
+</style><script charset="utf-8" src="/assets/webpack/shortcutsBundle.c4180d2a.chunk.js"></script><style type="text/css">.resizable-component[data-v-3de5149f]{position:relative}.resizable-component>.resizable-r[data-v-3de5149f]{z-index:90;cursor:e-resize;top:0;height:100%}.resizable-component>.resizable-r[data-v-3de5149f],.resizable-component>.resizable-rb[data-v-3de5149f]{display:block;position:absolute;touch-action:none;user-select:none;-moz-user-select:none;-webkit-user-select:none;width:12px;right:-6px}.resizable-component>.resizable-rb[data-v-3de5149f]{cursor:se-resize;height:12px;bottom:-6px;z-index:91}.resizable-component>.resizable-b[data-v-3de5149f]{z-index:90;cursor:s-resize;width:100%;left:0}.resizable-component>.resizable-b[data-v-3de5149f],.resizable-component>.resizable-lb[data-v-3de5149f]{display:block;position:absolute;touch-action:none;user-select:none;-moz-user-select:none;-webkit-user-select:none;height:12px;bottom:-6px}.resizable-component>.resizable-lb[data-v-3de5149f]{cursor:sw-resize;width:12px;left:-6px;z-index:91}.resizable-component>.resizable-l[data-v-3de5149f]{z-index:90;cursor:w-resize;height:100%;top:0}.resizable-component>.resizable-l[data-v-3de5149f],.resizable-component>.resizable-lt[data-v-3de5149f]{display:block;position:absolute;touch-action:none;user-select:none;-moz-user-select:none;-webkit-user-select:none;width:12px;left:-6px}.resizable-component>.resizable-lt[data-v-3de5149f]{cursor:nw-resize;height:12px;top:-6px;z-index:91}.resizable-component>.resizable-t[data-v-3de5149f]{z-index:90;cursor:n-resize;width:100%;left:0}.resizable-component>.resizable-rt[data-v-3de5149f],.resizable-component>.resizable-t[data-v-3de5149f]{display:block;position:absolute;touch-action:none;user-select:none;-moz-user-select:none;-webkit-user-select:none;height:12px;top:-6px}.resizable-component>.resizable-rt[data-v-3de5149f]{cursor:ne-resize;width:12px;right:-6px;z-index:91}</style><style>
+.input-copy-show-disc {
+  -webkit-text-security: disc;
+}
+/*
+  Bootstrap's invalid feedback displays based on a sibling selector which is incompatible with form-input-group.
+  So we must manually force the feedback to display when the input is invalid. See: https://github.com/bootstrap-vue/bootstrap-vue/issues/1251
+ */
+.input-copy-toggle-visibility-is-invalid .invalid-feedback {
+  display: block;
+}
+</style><script charset="utf-8" src="/assets/webpack/hello.c00be41d.chunk.js"></script><script charset="utf-8" src="/assets/webpack/initInviteMembersTrigger.c9926d9b.chunk.js"></script></head>
+
+<body class="gl-h-full login-page [] gl-browser-firefox gl-platform-linux page-initialised" data-page="sessions:new" data-testid="login-page">
+
+<script>
+//<![CDATA[
+gl = window.gl || {};
+gl.client = {"isFirefox":true,"isLinux":true};
+
+
+//]]>
+</script>
+
+
+<div class="gl-h-full gl-flex gl-flex-wrap">
+<div class="container gl-self-center">
+<div class="content">
+<div class="flash-container flash-container-page sticky" data-testid="flash-container">
+<!---->
+</div>
+
+<div class="gl-my-5">
+<div class="col-sm-12 gl-text-center">
+<img alt="GitLab Enterprise Edition" class="gl-h-10 js-portrait-logo-detection js-lazy-loaded" src="/assets/logo-911de323fa0def29aaf817fca33916653fc92f3ff31647ac41d2c39bbe243edb.svg" loading="lazy" data-testid="js-lazy-loaded-content">
+<h1 class="mb-3 gl-text-size-h2">
+GitLab Enterprise Edition
+</h1>
+</div>
+<div class="gl-w-full gl-ml-auto gl-mr-auto bar sm:gl-w-1/2">
+
+<div class="js-non-oauth-login">
+<form class="gl-show-field-errors js-arkose-labs-form" aria-live="assertive" data-testid="sign-in-form" action="/users/sign_in" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JKxeV5Mb9I3sl4UdQzcxqBFENuJwkawv269GpwyIWyy_tDLP-y2vWSM4XGT1cJw7w4IgjjolAQeBw3H-_lpMqA" autocomplete="off"><div class="form-group">
+<label for="user_login">Username or primary email</label>
+<input class="form-control gl-form-input js-username-field" autocomplete="username" autofocus="autofocus" autocapitalize="none" autocorrect="off" required="required" title="Username or primary email is required." data-testid="username-field" type="text" name="user[login]" id="user_login"><p class="gl-field-error hidden">Username or primary email is required.</p><p class="gl-field-error hidden">Username or primary email is required.</p>
+</div>
+<div class="form-group">
+<label for="user_password">Password</label>
+<div class="gl-field-error-anchor gl-relative"><input id="user_password" name="user[password]" type="password" required="required" autocomplete="current-password" aria-required="true" class="gl-form-input js-password-complexity-validation js-track-error !gl-pr-8 form-control" data-testid="password-field" title="Password is required."> <button aria-label="Show password" type="button" class="btn gl-absolute gl-right-0 gl-top-0 btn-default btn-md gl-button btn-default-tertiary btn-icon"><!----> <svg data-testid="eye-icon" role="img" aria-hidden="true" class="gl-button-icon gl-icon s16 gl-fill-current"><use href="/assets/icons-aa2c8ddf99d22b77153ca2bb092a23889c12c597fc8b8de94b0f730eb53513f6.svg#eye"></use></svg>  <!----></button></div><p class="gl-field-error hidden">Password is required.</p><p class="gl-field-error hidden">This field is required.</p>
+<div class="form-text gl-text-right">
+<a href="/users/password/new">Forgot your password?</a>
+</div>
+</div>
+<div class="form-group">
+</div>
+<div class="gl-mb-3">
+<div class="gl-form-checkbox custom-control custom-checkbox">
+<input name="user[remember_me]" type="hidden" value="0" autocomplete="off"><input autocomplete="off" class="custom-control-input" type="checkbox" value="1" name="user[remember_me]" id="user_remember_me">
+<label class="custom-control-label" for="user_remember_me"><span>Remember me</span></label>
+</div>
+
+</div>
+<button class="gl-button btn btn-block btn-md btn-confirm js-sign-in-button" data-testid="sign-in-button" type="submit"><span class="gl-button-text">
+Sign in
+
+</span>
+
+</button></form>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="footer-container gl-w-full gl-self-end">
+<hr class="gl-m-0">
+<div class="container gl-py-5 gl-flex gl-justify-between gl-items-start">
+<div class="gl-hidden md:gl-flex gl-gap-5 gl-flex-wrap">
+<a href="/explore">Explore</a>
+<a href="/help">Help</a>
+<a href="https://about.gitlab.com">About GitLab</a>
+<a target="_blank" class="text-nowrap" rel="noopener noreferrer" href="https://forum.gitlab.com">Community forum</a>
+</div>
+<div class="gl-new-dropdown"><button id="dropdown-toggle-btn-2" data-testid="base-dropdown-toggle" aria-haspopup="listbox" aria-expanded="false" aria-controls="base-dropdown-3" aria-labelledby="dropdown-toggle-btn-2" type="button" class="btn btn-default btn-sm gl-button btn-default-tertiary py-0 gl-h-6 gl-new-dropdown-toggle"><!----> <svg data-testid="earth-icon" role="img" aria-hidden="true" class="gl-button-icon gl-icon s16 gl-fill-current"><use href="/assets/icons-aa2c8ddf99d22b77153ca2bb092a23889c12c597fc8b8de94b0f730eb53513f6.svg#earth"></use></svg>  <span class="gl-button-text"><span class="gl-new-dropdown-button-text">
+        English
+      </span> <svg data-testid="chevron-down-icon" role="img" aria-hidden="true" class="gl-button-icon gl-new-dropdown-chevron gl-icon s16 gl-fill-current"><use href="/assets/icons-aa2c8ddf99d22b77153ca2bb092a23889c12c597fc8b8de94b0f730eb53513f6.svg#chevron-down"></use></svg></span></button> <div id="base-dropdown-3" data-testid="base-dropdown-menu" class="gl-new-dropdown-panel !gl-w-31"><div class="gl-new-dropdown-arrow"></div> <div class="gl-new-dropdown-inner"> <!----> <!----> <ul id="listbox-1" aria-labelledby="dropdown-toggle-btn-2" role="listbox" tabindex="0" class="gl-new-dropdown-contents gl-new-dropdown-contents-with-scrim-overlay top-scrim-visible bottom-scrim-visible gl-new-dropdown-contents"><li aria-hidden="true" data-testid="top-scrim" class="top-scrim-wrapper"><div class="top-scrim top-scrim-light"></div></li> <li aria-hidden="true"></li> <li role="option" tabindex="-1" aria-selected="true" class="gl-new-dropdown-item" data-testid="listbox-item-en"><span class="gl-new-dropdown-item-content"><svg data-testid="dropdown-item-checkbox" role="img" aria-hidden="true" class="gl-icon s16 gl-fill-current gl-new-dropdown-item-check-icon gl-mt-3 gl-self-start"><use href="/assets/icons-aa2c8ddf99d22b77153ca2bb092a23889c12c597fc8b8de94b0f730eb53513f6.svg#mobile-issue-close"></use></svg> <span class="gl-new-dropdown-item-text-wrapper"><span data-testid="language_switcher_lang_en">
+      English
+    </span></span></span></li><li role="option" tabindex="-1" class="gl-new-dropdown-item" data-testid="listbox-item-fr"><span class="gl-new-dropdown-item-content"><svg data-testid="dropdown-item-checkbox" role="img" aria-hidden="true" class="gl-icon s16 gl-fill-current gl-new-dropdown-item-check-icon gl-invisible gl-mt-3 gl-self-start"><use href="/assets/icons-aa2c8ddf99d22b77153ca2bb092a23889c12c597fc8b8de94b0f730eb53513f6.svg#mobile-issue-close"></use></svg> <span class="gl-new-dropdown-item-text-wrapper"><span data-testid="language_switcher_lang_fr">
+      français
+    </span></span></span></li><li role="option" tabindex="-1" class="gl-new-dropdown-item" data-testid="listbox-item-de"><span class="gl-new-dropdown-item-content"><svg data-testid="dropdown-item-checkbox" role="img" aria-hidden="true" class="gl-icon s16 gl-fill-current gl-new-dropdown-item-check-icon gl-invisible gl-mt-3 gl-self-start"><use href="/assets/icons-aa2c8ddf99d22b77153ca2bb092a23889c12c597fc8b8de94b0f730eb53513f6.svg#mobile-issue-close"></use></svg> <span class="gl-new-dropdown-item-text-wrapper"><span data-testid="language_switcher_lang_de">
+      Deutsch
+    </span></span></span></li><li role="option" tabindex="-1" class="gl-new-dropdown-item" data-testid="listbox-item-zh_CN"><span class="gl-new-dropdown-item-content"><svg data-testid="dropdown-item-checkbox" role="img" aria-hidden="true" class="gl-icon s16 gl-fill-current gl-new-dropdown-item-check-icon gl-invisible gl-mt-3 gl-self-start"><use href="/assets/icons-aa2c8ddf99d22b77153ca2bb092a23889c12c597fc8b8de94b0f730eb53513f6.svg#mobile-issue-close"></use></svg> <span class="gl-new-dropdown-item-text-wrapper"><span data-testid="language_switcher_lang_zh_CN">
+      简体中文
+    </span></span></span></li><li role="option" tabindex="-1" class="gl-new-dropdown-item" data-testid="listbox-item-ja"><span class="gl-new-dropdown-item-content"><svg data-testid="dropdown-item-checkbox" role="img" aria-hidden="true" class="gl-icon s16 gl-fill-current gl-new-dropdown-item-check-icon gl-invisible gl-mt-3 gl-self-start"><use href="/assets/icons-aa2c8ddf99d22b77153ca2bb092a23889c12c597fc8b8de94b0f730eb53513f6.svg#mobile-issue-close"></use></svg> <span class="gl-new-dropdown-item-text-wrapper"><span data-testid="language_switcher_lang_ja">
+      日本語
+    </span></span></span></li><li role="option" tabindex="-1" class="gl-new-dropdown-item" data-testid="listbox-item-pt_BR"><span class="gl-new-dropdown-item-content"><svg data-testid="dropdown-item-checkbox" role="img" aria-hidden="true" class="gl-icon s16 gl-fill-current gl-new-dropdown-item-check-icon gl-invisible gl-mt-3 gl-self-start"><use href="/assets/icons-aa2c8ddf99d22b77153ca2bb092a23889c12c597fc8b8de94b0f730eb53513f6.svg#mobile-issue-close"></use></svg> <span class="gl-new-dropdown-item-text-wrapper"><span data-testid="language_switcher_lang_pt_BR">
+      português (Brasil)
+    </span></span></span></li> <!----> <!----> <li aria-hidden="true"></li> <li aria-hidden="true" data-testid="bottom-scrim" class="bottom-scrim-wrapper"><div class="bottom-scrim !gl-rounded-none"></div></li></ul> <!----> <div data-testid="footer" class="gl-flex gl-justify-center gl-border-t-1 gl-border-t-default gl-p-3 gl-border-t-solid"><a href="/help/development/i18n/translation.md" class="gl-link">Help translate to your language</a></div></div></div></div>
+
+</div>
+</div>
+
+
+</div>
+
+
+<div></div><div></div></body></html>

@@ -1,0 +1,142 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitLab Issues by Category</title>
+    <!-- GitLab UI CSS -->
+    <link rel="stylesheet" href="gitlab.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="gitlab-custom-styles.css">
+    <!-- Vue.js -->
+    <script src="vue.min.js"></script>
+    <!-- GitLab UI JavaScript -->
+    <script src="gitlab.js"></script>
+</head>
+<body>
+    <div id="app"><header class="page-header"><div class="header-content"><h1 class="header-title"><img src="gitlab_logo.svg" alt="GitLab Logo" width="32" height="32">
+                    GitLab Issues by Category
+                </h1></div></header> <main class="main-content"><div class="default-view"><p class="default-text">
+                    You can use this page to see a list of epics and issues for a specific label grouped by product category. Product categories are broad domains in the DevSecOps area. Please, provide your label of interest below.
+                </p> <form class="label-input-container"><input type="text" placeholder="Type label here" class="gl-form-input"> <button type="submit" class="gl-button gl-button--primary gl-ml-3">Search</button></form></div></main> <footer class="page-footer"><div class="footer-content"><p>View the <a href="https://gitlab.com/gitlab-org/developer-relations/contributor-success/cocreate-issues-page" class="gl-link">source code</a> for this project on GitLab.</p></div></footer></div>
+
+    <script type="module">
+    import GitLabDataLoader from './gitlab-data-loader.js';
+
+    new Vue({
+        el: '#app',
+        data: {
+            gitlabData: [],
+            loading: false,
+            error: null,
+            currentLabel: '',
+            inputLabel: '',
+            loadingProgress: 0,
+            currentPage: 1,
+            totalPages: 1,
+            currentLoadingType: '',
+            isMultiPage: false
+        },
+        computed: {
+            sortedGitlabData() {
+                return this.gitlabData.slice().sort((a, b) => {
+                    if (a.category === 'Unknown') return 1;
+                    if (b.category === 'Unknown') return -1;
+                    return a.category.localeCompare(b.category);
+                });
+            },
+            totalEpics() {
+                const epicSet = new Set();
+                this.gitlabData.forEach(category => {
+                    category.epics.forEach(epic => epicSet.add(epic.link));
+                });
+                return epicSet.size;
+            },
+            totalIssues() {
+                const issueSet = new Set();
+                this.gitlabData.forEach(category => {
+                    category.issues.forEach(issue => issueSet.add(issue.link));
+                });
+                return issueSet.size;
+            }
+        },
+        mounted() {
+            this.checkUrlParams();
+        },
+        methods: {
+            checkUrlParams() {
+                const urlParams = new URLSearchParams(window.location.search);
+                const label = urlParams.get('label');
+                if (label) {
+                    this.currentLabel = label;
+                    this.inputLabel = label;
+                    this.fetchData();
+                }
+            },
+            async fetchData() {
+                this.loading = true;
+                this.error = null;
+                this.loadingProgress = 0;
+                this.currentPage = 1;
+                this.totalPages = 1;
+                this.isMultiPage = false;
+                const groupId = '9970'; // Replace with your actual group ID
+
+                const dataLoader = new GitLabDataLoader(groupId);
+                dataLoader.setProgressCallback(this.updateProgress);
+
+                try {
+                    const data = await dataLoader.loadData(this.currentLabel);
+
+                    if(data.metadata.issueEpicFileUpdatedAt) {
+                      this.issueEpicFileUpdatedAt = new Date(data.metadata.issueEpicFileUpdatedAt).toLocaleString(); // date time when file's updated
+                    } else {
+                      this.issueEpicFileUpdatedAt = new Date().toLocaleString(); // current date time
+                    }
+
+                    this.gitlabData = data.categories;
+                    this.gitlabData.forEach(category => {
+                        this.$set(category, 'isOpen', false);
+                    });
+                } catch (error) {
+                    this.error = "An error occurred while fetching data. Please try again later.";
+                    console.error('Error fetching data:', error);
+                } finally {
+                    this.loading = false;
+                }
+            },
+            updateProgress(type, currentPage, totalPages) {
+                this.currentLoadingType = type;
+                this.currentPage = currentPage;
+                this.totalPages = totalPages;
+                this.loadingProgress = (currentPage / totalPages) * 100;
+                this.isMultiPage = totalPages > 1;
+            },
+            fetchDataWithLabel() {
+                if (this.inputLabel.trim()) {
+                    this.currentLabel = this.inputLabel.trim();
+                    this.updateUrl();
+                    this.fetchData();
+                }
+            },
+            updateUrl() {
+                const url = new URL(window.location);
+                url.searchParams.set('label', this.currentLabel);
+                window.history.pushState({}, '', url);
+            },
+            toggleAccordion(category) {
+                const index = this.gitlabData.findIndex(item => item.category === category);
+                if (index !== -1) {
+                    this.$set(this.gitlabData[index], 'isOpen', !this.gitlabData[index].isOpen);
+                }
+            },
+            returnToDefaultView() {
+                this.currentLabel = '';
+                this.gitlabData = [];
+                const url = new URL(window.location);
+                url.searchParams.delete('label');
+                window.history.pushState({}, '', url);
+            }
+        }
+    });
+    </script>
+
+</body></html>

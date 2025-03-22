@@ -1,0 +1,159 @@
+<html class="gl-h-full" lang="en"><head>
+<!-- OneTrust -->
+<script async="" src="https://customers.gitlab.com/vite/assets/sp-D5Uiu1Mp.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NJXWQL"></script><script src="https://cdn.cookielaw.org/consent/7f944245-c5cd-4eed-a90e-dd955adfdd08/OtAutoBlock.js" nonce=""></script>
+<script nonce="">
+//<![CDATA[
+const oneTrustScript = document.createElement('script');
+oneTrustScript.src = 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js';
+oneTrustScript.dataset.domainScript = '7f944245-c5cd-4eed-a90e-dd955adfdd08';
+oneTrustScript.nonce = 'NL0t02J/2aBGJQcnCU4JsQ=='
+oneTrustScript.charset = 'UTF-8';
+oneTrustScript.defer = true;
+document.head.appendChild(oneTrustScript);
+
+function OptanonWrapper() { }
+
+
+//]]>
+</script><script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-domain-script="7f944245-c5cd-4eed-a90e-dd955adfdd08" charset="UTF-8" defer=""></script>
+<script nonce="">
+//<![CDATA[
+;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer',"GTM-NJXWQL");
+
+
+//]]>
+</script>
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>GitLab Subscription [Management]</title>
+<meta content="Application that will help you to manage your subscriptions, payment methods and invoices." name="description">
+<link href="humans.txt" rel="author">
+<script nonce="">
+//<![CDATA[
+window.gon={};gon.global={"version":"997ef2f282109b4768897842a6394bfbdf719225","sentryDsn":"https://452491c68cbe46a6b66e7e3f6ae9f6fb@new-sentry.gitlab.net/8"};gon.isSignedIn=false;gon.user=null;gon.features={"selfManagedUpgradeWhileRenewing":true,"purchaseAdditionalCodeSuggestionsSeats":true,"purchaseInitialDuoPro":true,"enableDuoSubscriptionRenewals":true,"oneTimePaymentsForInvoices":true,"multipleBillingAccountMembersExistingUsers":false,"zuoraReadOnlyModeEnabled":false};
+//]]>
+</script>
+<script src="/vite/assets/application-D5tgVxL7.js" crossorigin="anonymous" type="module" defer="defer"></script>
+<script src="/vite/assets/new-C5INSgtc.js" crossorigin="anonymous" type="module" defer="defer"></script><link rel="modulepreload" href="/vite/assets/jquery-D0P3riNo.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/accounting-DXbHOKSi.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/config-BO76SQRh.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/sentry--CcYLjtu.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/_plugin-vue2_normalizer-BmrbBKq3.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/parse_boolean-C1fjJVHe.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/index-DzBVMyLt.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/toNumber-DtpzRtO7.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/disclosure_dropdown-DiVXMifW.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/collapse-B3nU-TAr.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/toggle-DcUx4AFi.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/portal-vue.esm-LyTCdfQ5.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/csrf-BtrhfTVO.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/sessions_constants-BvTok2jI.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/card-BsejaRHt.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/graphql-e5T-2ZgY.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/get_billing_account.query-1BUHkjhG.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/base_dropdown-Rvw-P0rY.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/exports-V7M9hCyR.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/throttle-EMixWgvh.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/vee-validate.esm-KUz5xgA_.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/no_emoji-BkgwIgMl.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/jquery-BnC5r8ns.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/_commonjsHelpers-Cpj98o6Y.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/warn-BjgdjPQW.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/isBoolean-CIUiS2aR.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/_baseToString-CUrpmzis.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/uniqueId-D9mYeX7V.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/get-instance-from-directive-BsR1CEgr.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/create-new-child-component--DroV1oy.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/number-BQ-1xrQL.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/bv-tooltip-CicjQWiU.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/element-to-vue-instance-registry-wQpYFfx9.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/noop-DZoXWw14.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/toNumber-BZg9oa33.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/index-mOnsfTtZ.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/init_sign_up-H5obUKE7.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/try_json_parse-COz1U09v.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/state_select-y8uChR-h.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/form_input-DV_wJGsF.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/form-size--mYPVbcA.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/model-CJnLBvYK.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/constants-CYA4lRwe.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/html-Bfqdiit9.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="modulepreload" href="/vite/assets/form-custom-XR5ApqVY.js" as="script" crossorigin="anonymous" defer="defer">
+<link rel="stylesheet" href="/vite/assets/application-D5fXw21S.css" media="all">
+<script nonce="">
+//<![CDATA[
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","https://customers.gitlab.com/vite/assets/sp-D5Uiu1Mp.js","snowplow"));
+
+const { namespace: sp_namespace, hostname: sp_hostname, ...snowplowOptions } = {"hostname":"snowplowprd.trx.gitlab.net","namespace":"customers","appId":"gitlab_customers","cookieDomain":".gitlab.com","contexts":{"webPage":true},"encodeBase64":true,"forceSecureTracker":true,"post":true,"respectDoNotTrack":true,"stateStorageStrategy":"cookie"};
+
+window.snowplow('newTracker',
+  sp_namespace,
+  sp_hostname,
+  snowplowOptions
+);
+
+window.snowplow('flushBuffer');
+
+window.snowplowContext = {
+  environment: 'production',
+  customerId: null
+}
+
+
+//]]>
+</script>
+
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="Qn10jV-DD0ulYBH2KLXFxDYH5TABTlNqCLrBi5OGWxIwsFik1WXu4K_Iy63pU_YLYwvRWet5UF1ymCmP5Bx7gg">
+<meta name="csp-nonce" content="NL0t02J/2aBGJQcnCU4JsQ==">
+<script src="https://cdn.cookielaw.org/scripttemplates/202502.1.0/otBannerSdk.js" nonce="" async="" type="text/javascript"></script></head>
+<body class="gl-h-full" data-page="sessions:new">
+<div class="gl-flex gl-flex-col gl-h-full">
+<header>
+<div class="gl-max-w-88 gl-mx-auto gl-mt-7 gl-md-mt-11!">
+<a class="gl-flex gl-items-end gl-gap-3 gl-max-w-max-content gl-mx-auto !gl-no-underline !gl-text-gray-900" href="/">
+<img alt="GitLab Logo" src="https://customers.gitlab.com/vite/assets/gitlab_lockup-BolvXmKE.svg">
+<div class="gl-border-gray-300 gl-border-0 gl-border-l-1 gl-border-solid">
+<p class="gl-text-size-h2 gl-ml-3">Customers Portal</p>
+</div>
+</a>
+<hr class="solid gl-mt-8">
+</div>
+
+</header>
+<main class="gl-grow" role="main">
+<div class="container">
+<div class="gl-mt-3">
+
+<div class="vue-portal-target"></div>
+
+<div class="gl-m-auto gl-my-8 gl-text-center"><div class="gl-max-w-48 gl-m-auto"><h2 data-testid="title" class="gl-font-bold">Sign in</h2> <!----> <p class="gl-mt-5">
+      The Customers Portal is a secure site for managing GitLab subscriptions, billing contacts,
+      payments, and license details, accessed with your GitLab.com account.
+    </p></div> <form method="post" action="/auth/gitlab"><input name="utf8" type="hidden" value="✓"> <input type="hidden" name="authenticity_token" value="Qn10jV-DD0ulYBH2KLXFxDYH5TABTlNqCLrBi5OGWxIwsFik1WXu4K_Iy63pU_YLYwvRWet5UF1ymCmP5Bx7gg"> <div class="gl-flex gl-flex-wrap gl-gap-3 gl-justify-center gl-mt-8"><button data-testid="sign-in-with-gitlab-button" type="submit" class="btn btn-default btn-md gl-button"><!----> <!---->  <span class="gl-button-text"><span><img src="data:image/svg+xml,%3csvg%20width='25'%20height='24'%20viewBox='0%200%2025%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M24.507%209.5l-.034-.09L21.082.562a.896.896%200%2000-1.694.091l-2.29%207.01H7.825L5.535.653a.898.898%200%2000-1.694-.09L.451%209.411.416%209.5a6.297%206.297%200%20002.09%207.278l.012.01.03.022%205.16%203.867%202.56%201.935%201.554%201.176a1.051%201.051%200%20001.268%200l1.555-1.176%202.56-1.935%205.197-3.89.014-.01A6.297%206.297%200%200024.507%209.5z'%20fill='%23E24329'/%3e%3cpath%20d='M24.507%209.5l-.034-.09a11.44%2011.44%200%2000-4.56%202.051l-7.447%205.632%204.742%203.584%205.197-3.89.014-.01A6.297%206.297%200%200024.507%209.5z'%20fill='%23FC6D26'/%3e%3cpath%20d='M7.707%2020.677l2.56%201.935%201.555%201.176a1.051%201.051%200%20001.268%200l1.555-1.176%202.56-1.935-4.743-3.584-4.755%203.584z'%20fill='%23FCA326'/%3e%3cpath%20d='M5.01%2011.461a11.43%2011.43%200%2000-4.56-2.05L.416%209.5a6.297%206.297%200%20002.09%207.278l.012.01.03.022%205.16%203.867%204.745-3.584-7.444-5.632z'%20fill='%23FC6D26'/%3e%3c/svg%3e" alt="GitLab Logo" class="gl-w-5">
+          Sign in with GitLab.com account
+        </span></span></button> <a data-testid="register-on-gitlab-button" href="https://gitlab.com/users/sign_up" rel="noopener noreferrer" target="_blank" class="btn btn-default btn-md gl-button"><!----> <!---->  <span class="gl-button-text">
+        Register new GitLab.com account
+      </span></a></div></form> <!----></div>
+
+</div>
+</div>
+</main>
+<footer>
+<div class="vue-portal-target"><div class="gl-flex gl-flex-col gl-items-center"><div class="gl-card gl-max-w-80 gl-text-center gl-mx-7"><!----> <div class="gl-card-body"><p data-testid="legacy-account-message" class="gl-text-gray-600">If you have a legacy account, you can still access it for now by <a href="/customers/sign_in?legacy=true" class="gl-link" data-testid="legacy-sign-in-url">signing in with your email</a>. If your Customers Portal account is not linked to a GitLab.com account, you should <a href="https://docs.gitlab.com/subscriptions/customers_portal/#change-the-linked-account" class="gl-link" data-testid="link-gitlab-account-link">create and link a GitLab.com account</a>.</p></div> <!----></div> <div class="gl-my-7"><a href="https://about.gitlab.com/privacy/cookies/" class="gl-link" data-testid="cookie-policy">Cookie Policy</a> <span class="gl-border-gray-100 gl-border-0 gl-border-r-1 gl-border-solid gl-ml-2 gl-mr-3"></span> <a href="#" class="ot-sdk-show-settings gl-link" data-testid="cookie-preferences">Cookie Preferences</a> <span class="gl-border-gray-100 gl-border-0 gl-border-r-1 gl-border-solid gl-ml-2 gl-mr-3"></span> <a href="https://about.gitlab.com/privacy" class="gl-link" data-testid="privacy-statement">Privacy Statement</a></div></div></div>
+
+</footer>
+</div>
+<noscript>
+<iframe height='0' src='https://www.googletagmanager.com/ns.html?id=GTM-NJXWQL' style='display:none;visibility:hidden' width='0'></iframe>
+</noscript><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe>
+
+
+
+</body></html>

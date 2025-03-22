@@ -1,0 +1,48 @@
+<html><head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<title>GitLab - Versions</title>
+<link rel="stylesheet" media="all" href="/assets/application-7135669dec1aeac3a563c7e683a858069bb0e2957d5f510701f39bb048ff6ad6.css" data-turbolinks-track="true">
+<script src="/assets/application-1dea6ed8f7d14d618680ba7a086906b836851f1b2b071345d73cb31850fc5302.js" data-turbolinks-track="true"></script>
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="M+lOEIgLICnZsP7jx0fyW+7nVqiFVvoKUT6p22MNERtDMJW1IabAOD95/AafosdpjdS+TTqWmRoSoYczM+/npg==">
+<script>
+//<![CDATA[
+window.gon={};gon.browser_sdk_app_id="bfJCOgLfGHNhRk6Qd-MjKw";gon.browser_sdk_host="https://collector.prod-1.gl-product-analytics.com";gon.browser_sdk_enabled="true";
+//]]>
+</script>
+</head>
+<body>
+<div class="navbar navbar-expand-lg navbar-light bg-light">
+<div class="container-fluid">
+<a class="navbar-brand" href="/">version.gitlab.com</a>
+<button aria-controls="navbarSupportedContent" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarNav" data-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarNav">
+<ul class="nav navbar-nav ml-auto">
+<li>
+<a rel="nofollow" data-method="post" href="/users/auth/gitlab">Sign in with GitLab</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="container-fluid mt-3">
+<div class="alert alert-danger">You need to sign in or sign up before continuing.</div>
+<div class="row">
+<div class="col-md-6 offset-md-3">
+<div class="card">
+<div class="card-header">
+<h4>Sign in with GitLab</h4>
+</div>
+<div class="card-body">
+<a class="btn btn-success btn-lg" rel="nofollow" data-method="post" href="/users/auth/gitlab">Sign in with GitLab</a>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+
+</body></html>

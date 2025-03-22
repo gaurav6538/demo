@@ -1,0 +1,50 @@
+<html><head>
+    <meta charset="utf-8">
+    <meta name="generator" content="Choose GitLab Version">
+    <title>GitLab Version</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,700,400" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="style.css">
+    <link id="favicon" rel="icon" type="image/png" href="favicon.default.png">
+  </head>
+  <body>
+    <section class="wrapper">
+      <img src="./images/hero-bg-left.svg" class="bg bg-left">
+      <img src="./images/hero-bg-right.svg" class="bg bg-right">
+
+      <div class="container">
+        <div class="white-box">
+          <h1>
+            Select which version of <a href="https://gitlab.com">GitLab.com</a> you
+            want to use
+          </h1>
+
+          <div class="settings">
+            <div class="text-switch">
+              Current
+            </div>
+            <div class="switch">
+              <input id="next-switch" class="cmn-toggle cmn-toggle-round" type="checkbox">
+              <label for="next-switch"></label>
+            </div>
+            <div class="text-switch">
+              Next
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer">
+        <p>
+          This page allows you to toggle your use of our
+          <a href="https://handbook.gitlab.com/handbook/engineering/infrastructure/environments/canary-stage/#environments-canary-stage">
+            Canary infrastructure.
+          </a>
+        </p>
+        <a href="https://gitlab.com/gitlab-com/gl-infra/next.gitlab.com">
+          See this project on GitLab
+        </a>
+      </div>
+    </section>
+    <script src="index.js"></script>
+  
+
+</body></html>
